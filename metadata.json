@@ -1,0 +1,11 @@
+{
+  "name": "Remix SafalJobs",
+  "description": "India\u0027s transparent private-sector job portal with upfront salary and shift timetables, free OTP login for candidates, full company KYC verification, lowest employer posting fees, AI-free weighted matching algorithms, and built-in online video interviews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
